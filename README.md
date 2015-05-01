@@ -10,6 +10,8 @@ Used technologies
 * Knockout.js
 * Google Maps API V3 Javascript
 * Wikipedia API
+* Bootstrap
+* jQuery
 
 GUI
 -----------------------------------------------------------------------------------------------
