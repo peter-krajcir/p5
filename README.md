@@ -3,7 +3,10 @@ Project 5 - Neighborhood Map Project
 
 Run the project
 ---------------
-In order to run the project, you need to fork/clone/download the project and click on `index.html`. You can also visit my github webapge and get the latest version. (https://github.com/peter-krajcir/p5)
+There are 2 main directories:
+ * `src` - contains readable source code
+ * `dist` - contains minified version of the source code
+In order to run the project, you need to fork/clone/download the project and click on `dist/index.html`. You can also visit my github webapge and get the latest version. (https://github.com/peter-krajcir/p5)
 
 Used technologies
 -------------------------------------------------------------------------------------------
